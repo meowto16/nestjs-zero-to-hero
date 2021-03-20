@@ -36,4 +36,5 @@
   - [1.1 Добро пожаловать на курс!](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.1%20Welcome%20to%20the%20course!)
   - [1.2 Что такое NestJS?](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.2%20What%20is%20NestJS%3F)
   - [1.3 Установка NodeJS и NPM](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.3%20Installing%20Node.js%20and%20NPM)
-  - [1.4 Installing the NestJS CLI](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.4%20Installing%20the%20NestJS%20CLI)
+  - [1.4 Установка NestJS CLI](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.4%20Installing%20the%20NestJS%20CLI)
+  - [1.5 Установка Postman](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.4%20Installing%20the%20NestJS%20CLI)
