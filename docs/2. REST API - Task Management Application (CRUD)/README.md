@@ -15,3 +15,4 @@
 - [2.13 Введение в DTO (Data Transfer Objects)](./2.13%20Introduction%20to%20Data%20Transfer%20Objects%20(DTOs))
 - [2.14 Создаём CreateTaskDTO](./2.14%20Creating%20a%20CreateTaskDto)
 - [2.15 Feature. Получение задачи по ID](./2.15%20Feature%20Getting%20a%20Task%20by%20ID)
+- [2.16 Challenge. Удаление задачи](./2.16%20Challenge%20Deleting%20a%20Task)
