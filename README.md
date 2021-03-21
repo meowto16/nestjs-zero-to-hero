@@ -32,9 +32,11 @@
 
 ## Навигация
 
-- [1. Введение в NestJS и предварительная подготовка](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites)
+- [1 Введение в NestJS и предварительная подготовка](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites)
   - [1.1 Добро пожаловать на курс!](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.1%20Welcome%20to%20the%20course!)
   - [1.2 Что такое NestJS?](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.2%20What%20is%20NestJS%3F)
   - [1.3 Установка NodeJS и NPM](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.3%20Installing%20Node.js%20and%20NPM)
   - [1.4 Установка NestJS CLI](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.4%20Installing%20the%20NestJS%20CLI)
   - [1.5 Установка Postman](./docs/1.%20Introduction%20to%20NestJS%20&%20Pre-requisites/1.4%20Installing%20the%20NestJS%20CLI)
+- [2 REST API - TODO приложение (CRUD)](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD))
+  - [2.1 Обзор проекта TODO приложения](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.1%20Project%20Overview%20Task%20Management%20Application)
