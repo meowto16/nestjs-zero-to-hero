@@ -11,3 +11,4 @@
 - [2.9 Feature. Получение всех задач](./2.9%20Feature%20Getting%20all%20Tasks)
 - [2.10 Объявление Task модели](./2.10%20Defining%20a%20Task%20Model)
 - [2.11 Feature. Создание задачи (часть 1, сервис)](./2.11%20Feature%20Creating%20a%20Task%20(Part%201%20Service))
+- [2.12 Feature. Создание задачи (часть 2, контроллер)](./2.12%20Feature%20Creating%20a%20Task%20(Part%202%20Controller)))
