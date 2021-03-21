@@ -1,1 +1,4 @@
 .idea
+/projects/nestjs-task-management/node_modules
+/projects/nestjs-task-management/dist
+
