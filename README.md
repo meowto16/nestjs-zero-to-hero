@@ -44,3 +44,4 @@
   - [2.3 Введение в NestJS модули](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.3%20Introduction%20to%20NestJS%20Modules)
   - [2.4 Создание Tasks модуля](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.4%20Creating%20a%20Tasks%20Module)
   - [2.5 Введение в контроллеры NestJS](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.5%20Introduction%20to%20NestJS%20Controllers)
+  - [2.6 Создание Tasks контроллера](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.6%20Creating%20a%20Tasks%20Controller)
