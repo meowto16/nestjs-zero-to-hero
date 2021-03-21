@@ -7,3 +7,4 @@
 - [2.5 Введение в контроллеры NestJS](./2.5%20Introduction%20to%20NestJS%20Controllers)
 - [2.6 Создание Tasks контроллера](./2.6%20Creating%20a%20Tasks%20Controller)
 - [2.7 Введение в NestJS провайдеры и сервисы](./2.7%20Introduction%20to%20NestJS%20Providers%20and%20Services)
+- [2.8 Создание Tasks сервиса](./2.8%20Creating%20a%20Tasks%20Service)
