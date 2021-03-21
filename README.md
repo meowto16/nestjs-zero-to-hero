@@ -47,3 +47,4 @@
   - [2.6 Создание Tasks контроллера](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.6%20Creating%20a%20Tasks%20Controller)
   - [2.7 Введение в NestJS провайдеры и сервисы](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.7%20Introduction%20to%20NestJS%20Providers%20and%20Services)
   - [2.8 Создание Tasks сервиса](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.8%20Creating%20a%20Tasks%20Service)
+  - [2.9 Получение всех задач](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.9%20Feature%20Getting%20all%20Tasks)
