@@ -29,8 +29,11 @@ export class TasksController {
     return this.tasksService.deleteTaskById(id)
   }
 
-  @Patch(':id/status')
-  updateTaskStatus(@Param('id') id: string, @Body('status') status: TaskStatus): Task {
-    return this.tasksService.updateTask({ id, status: status })
+  @Patch('/:id/status')
+  updateTaskStatus(
+    @Param('id') id: string,
+    @Body('status') status: TaskStatus
+  ): Task {
+    return this.tasksService.updateTaskStatus(id, status)
   }
 }

@@ -18,3 +18,4 @@
 - [2.16 Challenge. Удаление задачи](./2.16%20Challenge%20Deleting%20a%20Task)
 - [2.17 Решение. Удаление задачи](./2.17%20Solution%20Deleting%20a%20Task)
 - [2.18 Challenge. Обновление задачи](./2.18%20Challenge%20Updating%20a%20Task's%20Status)
+- [2.19 Решение. Обновление задачи](./2.19%20Solution%20Updating%20a%20Task's%20Status)
