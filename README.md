@@ -62,3 +62,4 @@
 - [3 Валидация и обработка ошибок](./docs/3.%20Validation%20and%20Error%20Handling)
   - [3.1 Введение в NestJS пайпы](./docs/3.%20Validation%20and%20Error%20Handling/3.1%20Introduction%20to%20NestJS%20Pipes)
   - [3.2 Пайп валидации. Создание задачи](./docs/3.%20Validation%20and%20Error%20Handling/3.2%20ValidationPipe%20Creating%20a%20Task)
+  - [3.3 Обработка ошибок. Получение несуществующей задачи](./docs/3.%20Validation%20and%20Error%20Handling/3.3%20Error%20Handling%20Getting%20a%20non-existing%20Task)
