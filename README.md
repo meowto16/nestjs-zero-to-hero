@@ -59,3 +59,5 @@
   - [2.18 Challenge. Обновление задачи](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.18%20Challenge%20Updating%20a%20Task's%20Status)
   - [2.19 Решение. Обновление задачи](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.19%20Solution%20Updating%20a%20Task's%20Status)
   - [2.20 Feature. Фильтрация и поиск задач](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.20%20Feature%20Searching%20and%20Filtering%20Tasks)
+- [3 Валидация и обработка ошибок](./docs/3.%20Validation%20and%20Error%20Handling)
+  - [3.1 Введение в NestJS пайпы](./docs/3.%20Validation%20and%20Error%20Handling/3.1%20Introduction%20to%20NestJS%20Pipes)
