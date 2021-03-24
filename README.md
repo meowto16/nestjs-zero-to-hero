@@ -61,3 +61,4 @@
   - [2.20 Feature. Фильтрация и поиск задач](./docs/2.%20REST%20API%20-%20Task%20Management%20Application%20(CRUD)/2.20%20Feature%20Searching%20and%20Filtering%20Tasks)
 - [3 Валидация и обработка ошибок](./docs/3.%20Validation%20and%20Error%20Handling)
   - [3.1 Введение в NestJS пайпы](./docs/3.%20Validation%20and%20Error%20Handling/3.1%20Introduction%20to%20NestJS%20Pipes)
+  - [3.2 Пайп валидации. Создание задачи](./docs/3.%20Validation%20and%20Error%20Handling/3.2%20ValidationPipe%20Creating%20a%20Task)
