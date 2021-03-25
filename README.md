@@ -65,3 +65,4 @@
   - [3.3 Обработка ошибок. Получение несуществующей задачи](./docs/3.%20Validation%20and%20Error%20Handling/3.3%20Error%20Handling%20Getting%20a%20non-existing%20Task)
   - [3.4 Обработка ошибок. Удаление несуществующей задачи](./docs/3.%20Validation%20and%20Error%20Handling/3.4%20Error%20Handling%20Deleting%20a%20non-existing%20Task)
   - [3.5 Кастомный пайп валидации](./docs/3.%20Validation%20and%20Error%20Handling/3.5%20Custom%20Pipe%20Validating%20the%20Task%20Status)
+  - [3.6 Пайп валидации для фильтрации и поиска задач](./docs/3.%20Validation%20and%20Error%20Handling/3.6%20ValidationPipe%20Task%20Filtering%20and%20Search)
