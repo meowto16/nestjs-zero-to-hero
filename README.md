@@ -66,3 +66,6 @@
   - [3.4 Обработка ошибок. Удаление несуществующей задачи](./docs/3.%20Validation%20and%20Error%20Handling/3.4%20Error%20Handling%20Deleting%20a%20non-existing%20Task)
   - [3.5 Кастомный пайп валидации](./docs/3.%20Validation%20and%20Error%20Handling/3.5%20Custom%20Pipe%20Validating%20the%20Task%20Status)
   - [3.6 Пайп валидации для фильтрации и поиска задач](./docs/3.%20Validation%20and%20Error%20Handling/3.6%20ValidationPipe%20Task%20Filtering%20and%20Search)
+- [4 Сохранение данных - PostgreSQL и TypeORM](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM)
+  - [4.1 Установка PostgreSQL и pgAdmin](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.1%20Installing%20PostgreSQL%20and%20pgAdmin)
+  - [4.2 Используем pgAdmin для создания БД](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.2%20Using%20pgAdmin%20to%20create%20a%20Database)
