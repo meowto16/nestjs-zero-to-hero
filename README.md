@@ -68,3 +68,4 @@
   - [3.6 Пайп валидации для фильтрации и поиска задач](./docs/3.%20Validation%20and%20Error%20Handling/3.6%20ValidationPipe%20Task%20Filtering%20and%20Search)
 - [4 Сохранение данных - PostgreSQL и TypeORM](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM)
   - [4.1 Установка PostgreSQL и pgAdmin](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.1%20Installing%20PostgreSQL%20and%20pgAdmin)
+  - [4.2 Используем pgAdmin для создания БД](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.2%20Using%20pgAdmin%20to%20create%20a%20Database)
