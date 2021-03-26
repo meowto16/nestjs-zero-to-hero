@@ -69,3 +69,4 @@
 - [4 Сохранение данных - PostgreSQL и TypeORM](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM)
   - [4.1 Установка PostgreSQL и pgAdmin](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.1%20Installing%20PostgreSQL%20and%20pgAdmin)
   - [4.2 Используем pgAdmin для создания БД](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.2%20Using%20pgAdmin%20to%20create%20a%20Database)
+  - [4.3 Введение в ORM и TypeORM](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.3%20Introduction%20to%20Object%20Relational%20Mapping%20and%20TypeORM)
