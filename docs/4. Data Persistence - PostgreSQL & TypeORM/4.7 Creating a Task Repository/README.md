@@ -35,3 +35,5 @@ import { TaskRepository } from './task.repository'
 })
 export class TasksModule {}
 ```
+
+## [Полезная информация о репозиториях](https://github.com/typeorm/typeorm/blob/master/docs/custom-repository.md)
