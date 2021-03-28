@@ -6,3 +6,4 @@
 - [4.4 ВАЖНОЕ: TypeORM конфигурация сущностей](./4.4%20IMPORTANT%20TypeORM%20Entities%20Configuration)
 - [4.5 Подсоединяем NestJS к БД используя TypeORM](./4.5%20Connecting%20NestJS%20to%20a%20database%20using%20TypeORM)
 - [4.6 Создаем сущность "Задача"](./4.6%20Creating%20a%20Task%20Entity)
+- [4.6 Создаем репозиторий для задач](./4.7%20Creating%20a%20Task%20Repository)
