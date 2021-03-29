@@ -7,3 +7,4 @@
 - [4.5 Подсоединяем NestJS к БД используя TypeORM](./4.5%20Connecting%20NestJS%20to%20a%20database%20using%20TypeORM)
 - [4.6 Создаем сущность "Задача"](./4.6%20Creating%20a%20Task%20Entity)
 - [4.7 Создаем репозиторий для задач](./4.7%20Creating%20a%20Task%20Repository)
+- [4.8 Подготовка к рефактору сервиса задач](./4.8%20Preparation%20for%20Task%20Service%20Refactoring)
