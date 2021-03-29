@@ -36,6 +36,6 @@ import { TaskRepository } from './task.repository'
 export class TasksModule {}
 ```
 
-## [Полезная информация о репозиториях](https://github.com/typeorm/typeorm/blob/master/docs/custom-repository.md)
+## [Полезная информация о репозиториях](./Custom%20Repository)
 
 ## [TypeORM Repository документация](http://typeorm.delightful.studio/classes/_repository_repository_.repository.html)
