@@ -75,3 +75,5 @@
   - [4.6 Создаем сущность "Задача"](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.6%20Creating%20a%20Task%20Entity)
   - [4.7 Создаем репозиторий для задач](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.7%20Creating%20a%20Task%20Repository)
   - [4.8 Подготовка к рефактору сервиса задач](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.8%20Preparation%20for%20Task%20Service%20Refactoring)
+  - [4.9 Сохранение. Получение задачи по ID](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.9%20Persistence%20Getting%20a%20Task%20by%20ID)
+  - [4.10 Сохранение. Создание задачи](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.10%20Persistence%20Creating%20a%20Task)
