@@ -2,7 +2,6 @@ import {
   Body,
   Controller, Delete,
   Get, HttpCode, HttpStatus,
-  NotFoundException,
   Param,
   ParseIntPipe,
   Post,
@@ -39,7 +38,7 @@ export class TasksController {
 
   @Delete(':id')
   @HttpCode(HttpStatus.NO_CONTENT)
-  deleteTaskById(@Param('id', ParseIntPipe) id: number): Promise<Task> {
+  deleteTaskById(@Param('id', ParseIntPipe) id: number): Promise<void> {
     return this.tasksService.deleteTaskById(id)
   }
 

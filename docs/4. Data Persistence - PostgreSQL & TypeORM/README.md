@@ -11,3 +11,4 @@
 - [4.9 Сохранение. Получение задачи по ID](./4.9%20Persistence%20Getting%20a%20Task%20by%20ID)
 - [4.10 Сохранение. Создание задачи](./4.10%20Persistence%20Creating%20a%20Task)
 - [4.11 Challenge. Удаление задачи](./4.11%20Challenge%20Delete%20Task%20Persistence)
+- [4.12 Решение. Удаление задачи](./4.12%20Solution%20Delete%20Task%20Persistence)
