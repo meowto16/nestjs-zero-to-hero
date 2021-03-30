@@ -1,6 +1,7 @@
-import { Controller } from '@nestjs/common'
+import { Controller, Get, NotFoundException, Param, ParseIntPipe } from '@nestjs/common'
 
 import { TasksService } from './tasks.service'
+import { Task } from './task.entity'
 
 @Controller('tasks')
 export class TasksController {
@@ -15,17 +16,10 @@ export class TasksController {
   //   }
   // }
   //
-  // @Get(':id')
-  // getTaskById(@Param('id') id: string): Task {
-  //   const found = this.tasksService.getTaskById(id)
-  //
-  //   if (!found) {
-  //     throw new NotFoundException()
-  //   }
-  //
-  //   return found
-  // }
-  //
+  @Get(':id')
+  getTaskById(@Param('id', ParseIntPipe) id: number): Promise<Task> {
+    return this.tasksService.getTaskById(id)
+  }
   // @Post()
   // @UsePipes(ValidationPipe)
   // createTask(@Body() createTaskDto: CreateTaskDto) {
