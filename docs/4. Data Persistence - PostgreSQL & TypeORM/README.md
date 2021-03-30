@@ -9,4 +9,5 @@
 - [4.7 Создаем репозиторий для задач](./4.7%20Creating%20a%20Task%20Repository)
 - [4.8 Подготовка к рефактору сервиса задач](./4.8%20Preparation%20for%20Task%20Service%20Refactoring)
 - [4.9 Сохранение. Получение задачи по ID](./4.9%20Persistence%20Getting%20a%20Task%20by%20ID)
-- [4.9 Сохранение. Создание задачи](./4.10%20Persistence%20Creating%20a%20Task)
+- [4.10 Сохранение. Создание задачи](./4.10%20Persistence%20Creating%20a%20Task)
+- [4.11 Challenge. Удаление задачи](./4.11%20Challenge%20Delete%20Task%20Persistence)
