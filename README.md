@@ -79,3 +79,4 @@
   - [4.10 Сохранение. Создание задачи](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.10%20Persistence%20Creating%20a%20Task)
   - [4.11 Challenge. Удаление задачи](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.11%20Challenge%20Delete%20Task%20Persistence)
   - [4.12 Решение. Удаление задачи](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.12%20Solution%20Delete%20Task%20Persistence)
+  - [4.13 Сохранение. Обновление статуса задачи](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.13%20Persistence%20Updating%20Task%20Status)
