@@ -24,3 +24,6 @@
 ```
 
 Таким образом мы перенесли логику селекта задач в репозиторий.
+
+
+## [Документация по QueryBuilder](https://github.com/typeorm/typeorm/blob/master/docs/select-query-builder.md)
