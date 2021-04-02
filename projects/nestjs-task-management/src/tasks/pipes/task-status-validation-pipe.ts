@@ -12,7 +12,7 @@ export class TaskStatusValidationPipe implements PipeTransform {
     value = value.toUpperCase()
 
     if (!this.isStatusValid(value)) {
-      throw new BadRequestException(`${value} is an invalid status`)
+      throw new BadRequestException(`${value} is an invalid status. Available statuses: [${Object.keys(TaskStatus).join(', ')}]`)
     }
 
     return value
