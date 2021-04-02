@@ -81,3 +81,4 @@
   - [4.12 Решение. Удаление задачи](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.12%20Solution%20Delete%20Task%20Persistence)
   - [4.13 Сохранение. Обновление статуса задачи](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.13%20Persistence%20Updating%20Task%20Status)
   - [4.14 ВАЖНО. Перед получением сохранения задач](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.14%20IMPORTANT%20Before%20Persistence%20of%20Getting%20Tasks)
+  - [4.15 Сохранение. Получение задач (с фильтрами или без)](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.15%20Persistence%20Getting%20Tasks%20(with%20or%20without%20filters))
