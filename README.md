@@ -82,3 +82,5 @@
   - [4.13 Сохранение. Обновление статуса задачи](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.13%20Persistence%20Updating%20Task%20Status)
   - [4.14 ВАЖНО. Перед получением сохранения задач](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.14%20IMPORTANT%20Before%20Persistence%20of%20Getting%20Tasks)
   - [4.15 Сохранение. Получение задач (с фильтрами или без)](./docs/4.%20Data%20Persistence%20-%20PostgreSQL%20&%20TypeORM/4.15%20Persistence%20Getting%20Tasks%20(with%20or%20without%20filters))
+- [5. Аутентификация - настройка JWTPassport](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport)
+  - [5.1 Введение в понимание юзеров и ролей в нашем приложении](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.1%20Introduction%20Users%20and%20roles%20in%20our%20application)
