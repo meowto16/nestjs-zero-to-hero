@@ -88,3 +88,4 @@
   - [5.3 Feature. Регистрация](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.3%20Feature%20Sign%20Up)
   - [5.4 Валидация. AuthCredentialsDto, сила пароля](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.4%20Validation.%20AuthCredentialsDto,%20password%20strength)
   - [5.5 Обработка ошибок. Дублирующиеся username](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.5%20Error%20Handling%20Duplicate%20Usernames)
+  - [5.6 Безопасность. Хэширование паролей. использование соли](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.6%20Security%20Hashing%20Passwords%20&%20Using%20Salts)
