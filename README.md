@@ -90,3 +90,4 @@
   - [5.5 Обработка ошибок. Дублирующиеся username](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.5%20Error%20Handling%20Duplicate%20Usernames)
   - [5.6 Безопасность. Хэширование паролей. использование соли](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.6%20Security%20Hashing%20Passwords%20&%20Using%20Salts)
   - [5.7 Feature. Валидация пароля - логин](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.7%20Feature%20Validating%20Password%20-%20Sign%20In)
+  - [5.8 Введение в JSON веб токены (JWT)](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.8%20Introduction%20to%20JSON%20Web%20Tokens%20(JWT))
