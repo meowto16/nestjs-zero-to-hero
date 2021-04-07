@@ -10,3 +10,5 @@
 - [5.8 Введение в JSON веб токены (JWT)](./5.8%20Introduction%20to%20JSON%20Web%20Tokens%20(JWT))
 - [5.9 Настройка JWT модуля и Passport.js](./5.9%20Setting%20up%20the%20JWT%20Module%20and%20Passport.js)
 - [5.10 Подписываем JWT токен на аутентификации](./5.10%20Signing%20a%20JWT%20Token%20Upon%20Authentication)
+- [5.11 Настраиваем JWT стратегию для авторизации](./5.11%20Setting%20up%20the%20JWT%20Strategy%20for%20Authorization)
+- [5.12 Кастомный @GetUser декоратор](./5.11%20Setting%20up%20the%20JWT%20Strategy%20for%20Authorization)
