@@ -94,3 +94,4 @@
   - [5.9 Настройка JWT модуля и Passport.js](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.9%20Setting%20up%20the%20JWT%20Module%20and%20Passport.js)
   - [5.10 Подписываем JWT токен на аутентификации](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.10%20Signing%20a%20JWT%20Token%20Upon%20Authentication)
   - [5.11 Настраиваем JWT стратегию для авторизации](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.11%20Setting%20up%20the%20JWT%20Strategy%20for%20Authorization)
+  - [5.12 Кастомный @GetUser декоратор](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.12%20Custom%20@GetUser()%20Decorator)
