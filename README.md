@@ -96,3 +96,5 @@
   - [5.11 Настраиваем JWT стратегию для авторизации](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.11%20Setting%20up%20the%20JWT%20Strategy%20for%20Authorization)
   - [5.12 Кастомный @GetUser декоратор](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.12%20Custom%20@GetUser()%20Decorator)
   - [5.13 Защищаем Tasks роуты](./docs/5.%20(Part%201)%20Authentication%20-%20Setting%20up%20JWTPassport/5.13%20Guarding%20the%20Tasks%20Routes%20(TasksController))
+- [6. Авторизация, задачи с привязкой к юзеру](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership)
+  - [6.1 Задачи и пользователи - БД реляции](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.1%20Tasks%20and%20Users%20-%20Database%20Relation)
