@@ -4,4 +4,5 @@
 - [6.2 Авторизация. Создаем задачу для пользователя](./6.2%20Authorization%20Creating%20a%20Task%20For%20User)
 - [6.3 Авторизация. Получение задач для пользователя](./6.3%20Authorization%20Getting%20Tasks%20For%20User)
 - [6.4 Авторизация. Получение задачи пользователя по ID](./6.4%20Authorization%20Getting%20a%20User's%20Task)
-- [6.5 Авторизация. Обновление статуса задачи юзера](./6.5%20Authorization%20Updating%20a%20User's%20Task%20Status)
+- [6.5 Авторизация. Обновление статуса задачи пользователя](./6.5%20Authorization%20Updating%20a%20User's%20Task%20Status)
+- [6.6 Авторизация. Авторизация. Удаление задачи пользователя](./6.6%20Authorization%20Deleting%20a%20User's%20Task)

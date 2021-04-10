@@ -101,4 +101,5 @@
   - [6.2 Авторизация. Создаем задачу для пользователя](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.2%20Authorization%20Creating%20a%20Task%20For%20User)
   - [6.3 Авторизация. Получение задач для пользователя](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.3%20Authorization%20Getting%20Tasks%20For%20User)
   - [6.4 Авторизация. Получение задачи пользователя по ID](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.4%20Authorization%20Getting%20a%20User's%20Task)
-  - [6.5 Авторизация. Обновление статуса задачи юзера](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.5%20Authorization%20Updating%20a%20User's%20Task%20Status)
+  - [6.5 Авторизация. Обновление статуса задачи пользователя](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.5%20Authorization%20Updating%20a%20User's%20Task%20Status)
+  - [6.6 Авторизация. Удаление задачи пользователя](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.6%20Authorization%20Deleting%20a%20User's%20Task)
