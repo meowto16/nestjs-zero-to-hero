@@ -2,3 +2,4 @@
 
 - [6.1 Задачи и пользователи - БД реляции](./6.1%20Tasks%20and%20Users%20-%20Database%20Relation)
 - [6.2 Авторизация. Создаем задачу для пользователя](./6.2%20Authorization%20Creating%20a%20Task%20For%20User)
+- [6.3 Авторизация. Получение задач для пользователя](./6.3%20Authorization%20Getting%20Tasks%20For%20User)

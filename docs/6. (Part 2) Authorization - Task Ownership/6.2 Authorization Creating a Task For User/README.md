@@ -9,7 +9,6 @@ createTask(
 @Body() createTaskDto: CreateTaskDto,
 @GetUser() user: User // Теперь передаем юзера
 ): Promise<Task> {
-console.log(user)
 return this.tasksService.createTask(createTaskDto, user) // Пробрасываем юзера в метод сервиса
 }
 ```
