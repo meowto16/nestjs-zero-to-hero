@@ -103,3 +103,5 @@
   - [6.4 Авторизация. Получение задачи пользователя по ID](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.4%20Authorization%20Getting%20a%20User's%20Task)
   - [6.5 Авторизация. Обновление статуса задачи пользователя](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.5%20Authorization%20Updating%20a%20User's%20Task%20Status)
   - [6.6 Авторизация. Удаление задачи пользователя](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.6%20Authorization%20Deleting%20a%20User's%20Task)
+- [7. Логирование](./docs/7.%20Logging)
+  - [7.1 Введение в логирование](./docs/7.%20Logging/7.1%20Introduction%20to%20Logging)
