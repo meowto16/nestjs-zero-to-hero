@@ -105,3 +105,4 @@
   - [6.6 Авторизация. Удаление задачи пользователя](./docs/6.%20(Part%202)%20Authorization%20-%20Task%20Ownership/6.6%20Authorization%20Deleting%20a%20User's%20Task)
 - [7. Логирование](./docs/7.%20Logging)
   - [7.1 Введение в логирование](./docs/7.%20Logging/7.1%20Introduction%20to%20Logging)
+  - [7.2 Внедрение логирования в наше приложение](./docs/7.%20Logging/7.2%20Applying%20logging%20in%20our%20application)
